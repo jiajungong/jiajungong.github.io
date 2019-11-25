@@ -1,5 +1,5 @@
 ---
-title: "TA of COMP4632: Practicing Cybersecurity: Attacks and Counter-measures"
+title: "SPRING 2017-18: TA of COMP4632"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-1
@@ -8,5 +8,5 @@ date: 2017-09-01
 location: "Hong Kong, China"
 ---
 
-Heading 1
+TA of COMP4632: Practicing Cybersecurity: Attacks and Counter-measures
 ======
