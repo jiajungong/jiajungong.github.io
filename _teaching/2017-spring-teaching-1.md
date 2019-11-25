@@ -8,5 +8,5 @@ date: 2017-09-01
 location: "Hong Kong, China"
 ---
 
-## TA of COMP4632: Practicing Cybersecurity: Attacks and Counter-measures
+TA of COMP4632: Practicing Cybersecurity: Attacks and Counter-measures
 ======
