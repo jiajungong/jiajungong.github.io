@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiajun GONG (Aaron)"
   avatar           : "profile.png"
-  bio              : "Phd Candidate in Cybersecurity Lab, Interested in Tor, Machine Learning."
+  bio              : "Phd Candidate in Cybersecurity Lab, HKUST.\nInterested in Tor, Machine Learning."
   location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -263,7 +263,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
