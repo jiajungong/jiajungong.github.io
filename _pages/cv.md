@@ -28,6 +28,12 @@ Honors & Scholarship
 * National Scholarship, Nanjing University of Science and Technology, Nanjing, 2015
 * “The Academic Award”, Nanjing University of Science and Technology, Nanjing, 2015
 * The First Prize Scholarship, Nanjing University of Science and Technology, Nanjing, 2014-2015
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Projects
 ======
@@ -51,11 +57,7 @@ Skills
   * IELTS 7.5
   * CET6 594
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 <!-- Talks
 ======
