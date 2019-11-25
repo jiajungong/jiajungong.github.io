@@ -21,6 +21,12 @@ Education
   * Awarded CSC Scholarships by Chinese Scholarsshop Council
   * GPA 4.0/4.0
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Honors & Scholarship
 ======
 * Postgraduate Studentship of HKUST, HK, 2017–2021
@@ -29,11 +35,7 @@ Honors & Scholarship
 * “The Academic Award”, Nanjing University of Science and Technology, Nanjing, 2015
 * The First Prize Scholarship, Nanjing University of Science and Technology, Nanjing, 2014-2015
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Projects
 ======
@@ -43,9 +45,9 @@ Projects
   * A paper submitted to USENIX Security Symposium 2020
 
 * Cost-Effective Training of Deep CNNs with Active Model Adaptation, Oct. 2018 - Nov. 2018
- * Course Project with two group members
- * Implemented and reproduced the work of this paper
- * Found some errors in the paper and improved the algorithm through our analysis
+  * Course Project with two group members
+  * Implemented and reproduced the work of this paper
+  * Found some errors in the paper and improved the algorithm through our analysis
 
 Skills
 ======
