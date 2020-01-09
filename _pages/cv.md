@@ -49,16 +49,11 @@ Projects
   * Implemented and reproduced the work of this paper
   * Found some errors in the paper and improved the algorithm through our analysis
 
-Skills
-======
-* Programming Skills:
-  * Python
-  * C++
-  * Golang
-* English Tests:
-  * IELTS 7.5
-  * CET6 594
 
+Professional Service
+======
+* 2020:
+  * External reviewer for Transactions on Dependable and Secure Computing
 
   
 <!-- Talks
@@ -72,6 +67,16 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* Programming Skills:
+  * Python
+  * C++
+  * Golang
+* English Tests:
+  * IELTS 7.5
+  * CET6 594
   
 <!-- Service and leadership
 ======
