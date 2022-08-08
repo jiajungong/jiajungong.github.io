@@ -45,7 +45,7 @@ In the 40th IEEE Symposium on Security and Privacy.
   
 Honors & Scholarship
 ======
-* Postgraduate Studentship of HKUST, HK, 2017–2021
+* Postgraduate Studentship of HKUST, HK, 2017–2022
 * Meritorious Winner in American Interdisciplinary Contest In Modeling (Top 10%), USA, 2016 
 * National Scholarship, Nanjing University of Science and Technology, Nanjing, 2015
 * “The Academic Award”, Nanjing University of Science and Technology, Nanjing, 2015
