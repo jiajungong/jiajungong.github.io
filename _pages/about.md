@@ -1,35 +1,10 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-[//]: # (This is Jiajun GONG's home on the web!)
-
-[//]: # ()
-[//]: # ()
-[//]: # (---)
-
-[//]: # (layout: archive)
-
-[//]: # (title: )
-
-[//]: # (permalink: /cv/)
-
-[//]: # (author_profile: true)
-
-[//]: # (redirect_from:)
-
-[//]: # (  - /resume)
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # ({% include base_path %})
 
 Education
 ======
@@ -45,9 +20,25 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [S&P 2022] 
+**"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
+**Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
+In the 43rd IEEE Symposium on Security and Privacy.
+[[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) [[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
+[[Code]](https://github.com/websitefingerprinting/surakav-imp)
+
+* [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
+**Jiajun GONG**, Tao Wang.
+In the 29th USENIX Security Symposium. 
+[[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
+[[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
+[[Code]]((https://github.com/websitefingerprinting/WebsiteFingerprinting))
+
+* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".
+**Jiajun GONG**, Tao Wang.
+In the 40th IEEE Symposium on Security and Privacy. 
+[[Paper]](https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf)
+
   
 Honors & Scholarship
 ======
