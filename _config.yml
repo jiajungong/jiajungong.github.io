@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiajun GONG's Home Page {% last_modified_at %}"
+title                    : "Jiajun GONG's Home Page"
 title_separator          : "-"
 name                     : &name "Jiajun GONG"
 description              : &description "personal description"
