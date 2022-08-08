@@ -34,7 +34,7 @@ In the 29th USENIX Security Symposium.
 [[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
 [[Code]]((https://github.com/websitefingerprinting/WebsiteFingerprinting))
 
-* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".
+* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**
 **Jiajun GONG**, Tao Wang.
 In the 40th IEEE Symposium on Security and Privacy. 
 [[Paper]](https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf)
@@ -49,43 +49,27 @@ Honors & Scholarship
 * The First Prize Scholarship, Nanjing University of Science and Technology, Nanjing, 2014-2015
 
 
-  
-Projects
-======
-* Zero-delay Lightweight Defenses against Website Fingerprinting, Sep. 2018 - Dec. 2019
-  * Research project
-  * Proposed two defenses to protect user privacy when browsing the Internet
-  * A paper submitted to USENIX Security Symposium 2020
-
-* Cost-Effective Training of Deep CNNs with Active Model Adaptation, Oct. 2018 - Nov. 2018
-  * Course Project with two group members
-  * Implemented and reproduced the work of this paper
-  * Found some errors in the paper and improved the algorithm through our analysis
-
-
 Professional Service
 ======
-* 2020:
-  * External reviewer for Transactions on Dependable and Secure Computing
+* Reviewer for Transactions on Dependable and Secure Computing (2020)
 
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* TA for COMP 4451: Game Programming. (2020-2021 Fall)
+* TA for COMP 2711: Discrete Mathematical Tools for Computer Science. (2019-2020 Fall)
+* TA for COMP 3632: Principles of Cybersecurity. (2018-2019 Fall)
+* TA for COMP 4632: Practicing Cybersecurity: Attacks and Countermeasures. (2017-2018 Spring)
+
+
+
+
+
+
 Skills
 ======
 * Programming Skills: &nbsp;Python &nbsp; Golang &nbsp; C++
 * English Tests: &nbsp;IELTS 7.5 &nbsp; CET6 594
   
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
