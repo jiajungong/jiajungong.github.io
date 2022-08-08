@@ -84,5 +84,4 @@ Skills
   
 <div class="visitormap"> 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rPmfvPYZXknlnhpfqPKvMZsGAHZ1r2uQBlfGLE3_SXk'></script>
-{% last_modified_at %}
 </div>
