@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiajun GONG's Home Page"
+title                    : "Jiajun GONG's Home Page {% last_modified_at %}"
 title_separator          : "-"
 name                     : &name "Jiajun GONG"
 description              : &description "personal description"
@@ -263,6 +263,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-last-modified-at
   # - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
