@@ -24,7 +24,8 @@ Publications
 **"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
 **Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
 In the 43rd IEEE Symposium on Security and Privacy.
-[[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) [[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
+[[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
+[[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/surakav-imp)
 
 * [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
@@ -32,7 +33,7 @@ In the 43rd IEEE Symposium on Security and Privacy.
 In the 29th USENIX Security Symposium. 
 [[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
 [[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
-[[Code]]((https://github.com/websitefingerprinting/WebsiteFingerprinting))
+[[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
 
 * [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**
 **Jiajun GONG**, Tao Wang.
