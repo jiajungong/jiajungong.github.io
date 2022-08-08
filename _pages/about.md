@@ -12,7 +12,7 @@ Education
 ======
 * Ph.D. Candidate in Department of Computer Science and Engineering, Hong Kong University of Science and Technology, 2017-2022(Expected) 
   * GPA 4.06/4.3 
-  * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Machine Learning (A-)
+  * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
 * B.S. in College of Elite of Education, Nanjing University of Science and Technology, 2013-2017
   * GPA 3.82/4.0 (1/64)
   * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
