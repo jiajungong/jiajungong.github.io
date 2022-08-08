@@ -20,6 +20,13 @@ Education
   * Awarded CSC Scholarships by Chinese Scholarship Council
   * GPA 4.0/4.0
 
+Research Topic
+======
+I work in the Cybersecurity Lab at HKUST, supervised by Charles Zhang and Tao Wang. 
+My research interests lie in network security and privacy. 
+I focus on solving the problem of website fingerprinting, one kind of traffic analysis. 
+I designed three defenses to protect users against such attacks, leading to two top security conference papers.
+
 Publications
 ======
 * [S&P 2022] 
