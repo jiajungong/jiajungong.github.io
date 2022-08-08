@@ -83,13 +83,8 @@ Teaching
   
 Skills
 ======
-* Programming Skills:
-  * Python
-  * C++
-  * Golang
-* English Tests:
-  * IELTS 7.5
-  * CET6 594
+* Programming Skills: &nbsp;Python &nbsp; Golang &nbsp; C++
+* English Tests: &nbsp;IELTS 7.5 &nbsp; CET6 594
   
 <!-- Service and leadership
 ======
