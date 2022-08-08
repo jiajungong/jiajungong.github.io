@@ -83,5 +83,5 @@ Skills
 * English Tests: &nbsp;IELTS 7.5 &nbsp; CET6 594
   
 <div class="visitormap"> 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=tt&d=rPmfvPYZXknlnhpfqPKvMZsGAHZ1r2uQBlfGLE3_SXk"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rPmfvPYZXknlnhpfqPKvMZsGAHZ1r2uQBlfGLE3_SXk'></script>
 </div>
