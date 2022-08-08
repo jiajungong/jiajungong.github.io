@@ -13,4 +13,10 @@
 }
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 5px;
+}
+
+.visitormap div {
+    height: 79px;
+    width: 150px;
+}
