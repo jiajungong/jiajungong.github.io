@@ -10,7 +10,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate in Department of Computer Science and Engineering, Hong Kong University of Science and Technology, 2017-2022(Expected) 
+* Research Fellow in School of Computing, National University of Singapore, 2023-now
+* Ph.D. in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2017-2023 
   * GPA 4.06/4.3 
   * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
 * B.S. in College of Elite of Education, Nanjing University of Science and Technology, 2013-2017
@@ -22,7 +23,7 @@ Education
 
 Research Topic
 ======
-I work in the Cybersecurity Lab at HKUST, supervised by Charles Zhang and Tao Wang. 
+I worked at the Cybersecurity Lab of HKUST, supervised by Charles Zhang and Tao Wang. 
 My research interests lie in network security and privacy. 
 I focus on solving the problem of website fingerprinting, one kind of traffic analysis. 
 I designed three defenses to protect users against such attacks, leading to two top security conference papers.

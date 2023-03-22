@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiajun GONG (Aaron)"
   avatar           : "selfie.jpg"
-  bio              : "Phd Candidate in Cybersecurity Lab, HKUST.\nInterested in Tor, Machine Learning. \n\r Looking for postdoc positions."
-  location         : "Hong Kong"
+  bio              : "Research Fellow at Security Research Lab, NUS.\nInterested in Tor, Machine Learning."
+  location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7Xb0YxMAAAAJ"
-  email            : "jgongac@connect.ust.hk"
+  email            : "gongjj@comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
