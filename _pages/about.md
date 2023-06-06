@@ -37,7 +37,7 @@ In the 43rd IEEE Symposium on Security and Privacy.
 [[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
 [[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/surakav-imp)
-[[Data set]](https://hkustconnect-my.sharepoint.com/personal/jgongac_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjgongac%5Fconnect%5Fust%5Fhk%2FDocuments%2FSP%5FSurakav%5FDataset&ga=1)
+[[Dataset]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jgongac_connect_ust_hk/EmDLuxN-9jpKlJLkd3uSEisByuQExKNG4F19DHWyuOFzSg?e=ZkHloH)
 
 * [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
 **Jiajun GONG**, Tao Wang.
