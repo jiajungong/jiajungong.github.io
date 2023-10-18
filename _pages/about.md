@@ -32,11 +32,11 @@ Publications
 ======
 * [TIFS 2023] 
 **"WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses".**
-**Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
+**Jiajun Gong**, Wuqi Zhang, Charles Zhang, Tao Wang.
 
 * [S&P 2022] 
 **"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
-**Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
+**Jiajun Gong**, Wuqi Zhang, Charles Zhang, Tao Wang.
 In the 43rd IEEE Symposium on Security and Privacy.
 [[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
 [[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
@@ -44,14 +44,14 @@ In the 43rd IEEE Symposium on Security and Privacy.
 [[Dataset]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jgongac_connect_ust_hk/EmDLuxN-9jpKlJLkd3uSEisByuQExKNG4F19DHWyuOFzSg?e=ZkHloH)
 
 * [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
-**Jiajun GONG**, Tao Wang.
+**Jiajun Gong**, Tao Wang.
 In the 29th USENIX Security Symposium. 
 [[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
 [[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
 
 * [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**
-**Jiajun GONG**, Tao Wang.
+**Jiajun Gong**, Tao Wang.
 In the 40th IEEE Symposium on Security and Privacy. 
 [[Paper]](https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf)
 
