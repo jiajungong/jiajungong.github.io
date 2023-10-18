@@ -30,6 +30,10 @@ I designed three defenses to protect users against such attacks, leading to two 
 
 Publications
 ======
+* [TIFS 2023] 
+**"WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses".**
+**Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
+
 * [S&P 2022] 
 **"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
 **Jiajun GONG**, Wuqi Zhang, Charles Zhang, Tao Wang.
