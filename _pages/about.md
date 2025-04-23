@@ -10,19 +10,19 @@ redirect_from:
 
 Working Experience
 ======
-* Assistant Researcher in Peng Cheng Laboratory, Shenzhen, China. 2025.04 - present.
-* Research Fellow in School of Computing, National University of Singapore, Singapore. 2023.03 - 2025.01
+* **Assistant Researcher** in Peng Cheng Laboratory, Shenzhen, China. 2025.04 - present.
+* **Research Fellow** in School of Computing, National University of Singapore, Singapore. 2023.03 - 2025.01
 
 
 Education
 ======
-* Ph.D. in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2017.09 - 2022.12 
+* Ph.D. in Department of Computer Science and Engineering, *the Hong Kong University of Science and Technology*, 2017.09 - 2022.12 
   * GPA 4.06/4.3 
   * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
-* B.S. in College of Elite of Education, Nanjing University of Science and Technology, 2013.09 - 2017.06
+* B.S. in College of Elite of Education, *Nanjing University of Science and Technology*, 2013.09 - 2017.06
   * GPA 3.82/4.0 (1/64)
   * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
-* Visiting student in Department of Computer Science and Engineering, The Australian National University, 2015.07 - 2016.11
+* Visiting student in Department of Computer Science and Engineering, *the Australian National University*, 2015.07 - 2016.11
   * Awarded CSC Scholarships by Chinese Scholarship Council
   * GPA 4.0/4.0
 
