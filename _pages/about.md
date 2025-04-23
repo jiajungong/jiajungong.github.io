@@ -73,8 +73,9 @@ Honors & Scholarship
 
 Professional Service
 ======
-* Reviewer for Transactions on Dependable and Secure Computing (2020)
-* Reviewer for Transactions on Information Forensics and Security (2023)
+* Reviewer for IEEE Transactions on Networking (2025)
+* Reviewer for IEEE Transactions on Dependable and Secure Computing (2020, 2024)
+* Reviewer for IEEE Transactions on Information Forensics and Security (2023, 2024)
 * Reviewer for EAI SecureComm (2023)
   
   

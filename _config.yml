@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'email', 'message']Ï
   transforms:
     email                : "md5"
   generatedFields:
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiajun GONG (Aaron)"
   avatar           : "selfie.jpg"
-  bio              : "Research Fellow at Security Research Lab, NUS.\nInterested in Tor, Machine Learning."
-  location         : "Singapore"
+  bio              : "Assistant researcher at Peng Cheng Laboratory, Shenzhen."
+  location         : "Shenzhen, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7Xb0YxMAAAAJ"
