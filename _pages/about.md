@@ -8,25 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+Working Experience
+======
+* Assistant Researcher in Peng Cheng Laboratory, Shenzhen, China. 2025.04 - present.
+* Research Fellow in School of Computing, National University of Singapore, Singapore. 2023.03 - 2025.01
+
+
 Education
 ======
-* Research Fellow in School of Computing, National University of Singapore, 2023-now
-* Ph.D. in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2017-2023 
+* Ph.D. in Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2017.09 - 2022.12 
   * GPA 4.06/4.3 
   * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
-* B.S. in College of Elite of Education, Nanjing University of Science and Technology, 2013-2017
+* B.S. in College of Elite of Education, Nanjing University of Science and Technology, 2013.09 - 2017.06
   * GPA 3.82/4.0 (1/64)
   * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
-* Visiting student in Department of Computer Science and Engineering, The Australian National University, 2014-2015
+* Visiting student in Department of Computer Science and Engineering, The Australian National University, 2015.07 - 2016.11
   * Awarded CSC Scholarships by Chinese Scholarship Council
   * GPA 4.0/4.0
 
-Research Topic
-======
-I worked at the Cybersecurity Lab of HKUST, supervised by Charles Zhang and Tao Wang. 
-My research interests lie in network security and privacy. 
-I focus on solving the problem of website fingerprinting, one kind of traffic analysis. 
-I designed three defenses to protect users against such attacks, leading to two top security conference papers.
+[//]: # (Research Topic)
+
+[//]: # (======)
+
+[//]: # (I worked at the Cybersecurity Lab of HKUST, supervised by Charles Zhang and Tao Wang. )
+
+[//]: # (My research interests lie in network security and privacy. )
+
+[//]: # (I focus on solving the problem of website fingerprinting, one kind of traffic analysis. )
+
+[//]: # (I designed three defenses to protect users against such attacks, leading to two top security conference papers.)
 
 Publications
 ======
@@ -52,6 +62,11 @@ Publications
 [[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
 [[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
+
+* [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
+Siyuan Liang, Kuanrong Liu, **Jiajun Gong**, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao.
+*In CVPR 2024 workshop.* (**Best Paper Award**)
+[[Paper]](https://arxiv.org/abs/2403.16257)
 
 [//]: # (* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**)
 
