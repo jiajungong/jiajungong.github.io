@@ -40,6 +40,16 @@ Education
 
 Publications
 ======
+* [TIFS 2025] 
+**"FOADA: Towards Robust Open-World Mobile App Fingerprinting".**
+**Jiajun Gong**, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang 
+*IEEE Transactions on Information Forensics and Security.*
+
+[//]: # ([[Paper]]&#40;&#41;)
+
+[//]: # ([[Code]]&#40;&#41;)
+
+
 * [TIFS 2023] 
 **"WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses".**
 **Jiajun Gong**, Wuqi Zhang, Charles Zhang, Tao Wang. 
