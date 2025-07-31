@@ -44,9 +44,7 @@ Publications
 **"FOADA: Toward Robust Open-World Mobile App Fingerprinting".**
 **Jiajun Gong**, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang 
 *IEEE Transactions on Information Forensics and Security.*
-
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11080009)
-
 [[Code]](https://github.com/websitefingerprinting/app_fingerprinting)
 
 
