@@ -40,6 +40,15 @@ Education
 
 Publications
 ======
+* [TDSC 2025] 
+**"WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features".**
+**Jiajun Gong**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang 
+*IEEE Transactions on Dependable and Secure Computing.*
+
+[//]: # ([[Paper]]&#40;https://ieeexplore.ieee.org/abstract/document/11080009&#41;)
+
+[//]: # ([[Code]]&#40;https://github.com/websitefingerprinting/app_fingerprinting&#41;)
+
 * [TIFS 2025] 
 **"FOADA: Toward Robust Open-World Mobile App Fingerprinting".**
 **Jiajun Gong**, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang 
