@@ -69,7 +69,7 @@ Publications
 **Jiajun Gong**, Wuqi Zhang, Charles Zhang, Tao Wang.
 *In the 43rd IEEE Symposium on Security and Privacy.*
 [[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
-[[Sides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
+[[Slides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/surakav-imp)
 [[Dataset]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jgongac_connect_ust_hk/EmDLuxN-9jpKlJLkd3uSEisByuQExKNG4F19DHWyuOFzSg?e=ZkHloH)
 
@@ -77,7 +77,7 @@ Publications
 **Jiajun Gong**, Tao Wang.
 *In the 29th USENIX Security Symposium.* 
 [[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
-[[Sides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
+[[Slides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
 
 * [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
