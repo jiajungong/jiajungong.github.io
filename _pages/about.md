@@ -45,7 +45,7 @@ Publications
 **Jiajun Gong**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang. 
 *IEEE Transactions on Dependable and Secure Computing.*
 
-[//]: # ([[Paper]]&#40;https://ieeexplore.ieee.org/abstract/document/11080009&#41;)
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11146805/)
 
 [//]: # ([[Code]]&#40;https://github.com/websitefingerprinting/app_fingerprinting&#41;)
 
