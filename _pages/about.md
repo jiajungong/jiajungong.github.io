@@ -44,7 +44,6 @@ Publications
 **"WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features".**
 **Jiajun Gong**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang. 
 *IEEE Transactions on Dependable and Secure Computing.*
-
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11146805/)
 
 [//]: # ([[Code]]&#40;https://github.com/websitefingerprinting/app_fingerprinting&#41;)
