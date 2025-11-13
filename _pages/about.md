@@ -10,7 +10,7 @@ redirect_from:
 
 Working Experience
 ======
-* **Assistant Researcher** in Peng Cheng Laboratory, Shenzhen, China, 2025.04 - present.
+* **Assistant Researcher** in Pengcheng Laboratory, Shenzhen, China, 2025.04 - present.
 * **Research Fellow** in School of Computing, National University of Singapore, Singapore, 2023.03 - 2025.01.
 
 
