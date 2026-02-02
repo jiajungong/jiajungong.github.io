@@ -42,7 +42,7 @@ Publications
 ======
 * [TIFS 2026] 
 **"TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning".**
-Siyuan Liang, **Jiajun Gong**, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.
+Siyuan Liang, **Jiajun Gong***, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.
 *IEEE Transactions on Information Forensics and Security.* (*Corresponding author*)
 
 * [TDSC 2025] 
