@@ -43,12 +43,12 @@ Publications
 * [TIFS 2026] 
 **"TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning".**
 Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.
-*IEEE Transactions on Information Forensics and Security.* (*CCF-A*)
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
 
 * [TDSC 2025] 
 **"WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features".**
 **Jiajun Gong (First author)**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang. 
-*IEEE Transactions on Dependable and Secure Computing.* (*CCF-A*)
+*IEEE Transactions on Dependable and Secure Computing.* *(CCF-A)*
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11146805/)
 
 [//]: # ([[Code]]&#40;https://github.com/websitefingerprinting/app_fingerprinting&#41;)
@@ -56,21 +56,21 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 * [TIFS 2025] 
 **"FOADA: Toward Robust Open-World Mobile App Fingerprinting".**
 **Jiajun Gong (First author)**, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang. 
-*IEEE Transactions on Information Forensics and Security.* (*CCF-A*)
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11080009)
 [[Code]](https://github.com/websitefingerprinting/app_fingerprinting)
 
 * [TIFS 2023] 
 **"WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses".**
 **Jiajun Gong (First author)**, Wuqi Zhang, Charles Zhang, Tao Wang. 
-*IEEE Transactions on Information Forensics and Security.* (*CCF-A*)
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10295524)
 [[Code]](https://github.com/websitefingerprinting/wfdef)
 
 * [S&P 2022] 
 **"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
 **Jiajun Gong (First author)**, Wuqi Zhang, Charles Zhang, Tao Wang.
-*In the 43rd IEEE Symposium on Security and Privacy.* (*CCF-A*)
+*In the 43rd IEEE Symposium on Security and Privacy.* *(CCF-A)*
 [[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
 [[Slides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/surakav-imp)
@@ -78,14 +78,14 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 
 * [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
 **Jiajun Gong (First author)**, Tao Wang.
-*In the 29th USENIX Security Symposium.* (*CCF-A*)
+*In the 29th USENIX Security Symposium.* *(CCF-A)*
 [[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
 [[Slides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
 [[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
 
 * [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
 Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao.
-*In CVPR 2024 workshop.* (*Best Paper Award*)
+*In CVPR 2024 workshop.* *(Best Paper Award)*
 [[Paper]](https://arxiv.org/abs/2403.16257)
 
 [//]: # (* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**)
