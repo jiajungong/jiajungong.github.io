@@ -45,6 +45,7 @@ Publications
 Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.
 *IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
 [[Paper]](https://ieeexplore.ieee.org/document/11395327/)
+[[code]](https://github.com/LiangSiyuan21/TrapFlow)
 
 * [TDSC 2025] 
 **"WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features".**
