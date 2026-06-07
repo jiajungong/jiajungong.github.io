@@ -51,8 +51,8 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 **Jiajun Gong (First author)**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang. 
 *IEEE Transactions on Dependable and Secure Computing.* *(CCF-A)*
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11146805/)
-
-[//]: # ([[Code]]&#40;https://github.com/websitefingerprinting/app_fingerprinting&#41;)
+[[Code]](https://github.com/websitefingerprinting/wfcat)
+[[Dataset]](https://drive.google.com/drive/folders/16N0Kwx1_TjaOFZG72du1X8etNcdpriim?usp=sharing)
 
 * [TIFS 2025] 
 **"FOADA: Toward Robust Open-World Mobile App Fingerprinting".**
