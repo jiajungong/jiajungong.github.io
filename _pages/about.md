@@ -112,12 +112,13 @@ Honors & Scholarship
 
 Professional Service
 ======
-* Reviewer for ACM Transactions on Privacy and Security (2026)
-* Reviewer for Knowledge-Based Systems  (2026)
-* Reviewer for IEEE Transactions on Networking (2025)
-* Reviewer for IEEE Transactions on Dependable and Secure Computing (2020, 2024, 2026)
-* Reviewer for IEEE Transactions on Information Forensics and Security (2023, 2024)
-* Reviewer for EAI SecureComm (2023)
+* Reviewer for ACM Transactions on Privacy and Security (TOPS), 2026
+* Reviewer for Journal of Information Security and Applications (JISA), 2026
+* Reviewer for Knowledge-Based Systems (KBS), 2026
+* Reviewer for IEEE Transactions on Networking (TON), 2025
+* Reviewer for IEEE Transactions on Dependable and Secure Computing (TDSC), 2020, 2024, 2026
+* Reviewer for IEEE Transactions on Information Forensics and Security (TIFS), 2023, 2024
+* Reviewer for EAI SecureComm, 2023
   
   
 Teaching
