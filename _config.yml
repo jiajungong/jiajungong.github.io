@@ -120,7 +120,6 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages/about.md
   - files
 exclude:
   # Keep the published site to the homepage. GitHub Pages handles missing
