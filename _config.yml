@@ -120,9 +120,33 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/about.md
   - files
 exclude:
+  # Keep the published site to the homepage. GitHub Pages handles missing
+  # paths with its standard 404 response.
+  # These legacy pages and collections remain in the repository as source
+  # material but are not rendered by Jekyll.
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/publications.md
+  - _pages/sitemap.md
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/talks.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - markdown_generator
+  - talkmap
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -175,18 +199,11 @@ kramdown:
 
 # Collections
 collections:
+  # All non-homepage source collections are intentionally not published.
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   publications:
-    output: true
-    permalink: /:collection/:path/
-  # portfolio:
-  #   output: false
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: false
-  #   permalink: /:collection/:path/
+    output: false
 
 
 # Defaults
@@ -265,7 +282,6 @@ plugins:
   - jekyll-gist
   - jekyll-last-modified-at
   # - jekyll-feed
-  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

@@ -3,9 +3,6 @@ permalink: /
 author_profile: true
 title: ""
 excerpt: ""
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Working Experience
@@ -113,6 +110,7 @@ Honors & Scholarship
 Professional Service
 ======
 * Reviewer for ACM Transactions on Privacy and Security (TOPS), 2026
+* Reviewer for Journal of Computer Security, 2026
 * Reviewer for Journal of Information Security and Applications (JISA), 2026
 * Reviewer for Knowledge-Based Systems (KBS), 2026
 * Reviewer for IEEE Transactions on Networking (TON), 2025
@@ -139,5 +137,5 @@ Skills
 * English Tests: &nbsp;IELTS 7.5 &nbsp; CET6 594
   
 <div class="visitormap"> 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rPmfvPYZXknlnhpfqPKvMZsGAHZ1r2uQBlfGLE3_SXk'></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=rPmfvPYZXknlnhpfqPKvMZsGAHZ1r2uQBlfGLE3_SXk"></script>
 </div>
