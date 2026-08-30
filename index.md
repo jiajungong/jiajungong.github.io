@@ -10,7 +10,7 @@ last_updated: 2026-08-30
   <p class="eyebrow">Assistant Researcher <span aria-hidden="true">/</span> Pengcheng Laboratory</p>
   <h1>Network security for<br><span>privacy-preserving systems.</span></h1>
   <p class="home-hero__summary">I study how machine learning can make encrypted communications more private, more robust, and more trustworthy. My work spans website and mobile-app fingerprinting, encrypted traffic analysis, and AI security.</p>
-  <div class="home-hero__focus">
+  <div class="home-hero__focus" aria-label="Research areas">
     <span>Encrypted traffic</span>
     <span>Website fingerprinting</span>
     <span>AI security</span>
@@ -104,15 +104,6 @@ last_updated: 2026-08-30
     </div>
   </article>
   <article class="publication">
-    <div class="publication-year">2024</div>
-    <div class="publication-content">
-      <h3>Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning</h3>
-      <p>Siyuan Liang, Kuanrong Liu, <strong>Jiajun Gong</strong>, Jiawei Liang, Yuan Xun, Ee-Chien Chang, and Xiaochun Cao.</p>
-      <p class="publication-venue"><em>CVPR 2024 Workshop</em> <span>·</span> Third author <span>·</span> <span class="publication-award">Distinguished Paper Award</span></p>
-      <p class="publication-links"><a href="https://arxiv.org/abs/2403.16257">Paper</a></p>
-    </div>
-  </article>
-  <article class="publication">
     <div class="publication-year">2023</div>
     <div class="publication-content">
       <h3>WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses</h3>
@@ -139,7 +130,16 @@ last_updated: 2026-08-30
       <p class="publication-links"><a href="https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf">Paper</a><a href="https://jiajungong.github.io/files/security20-gong-slides.pdf">Slides</a><a href="https://github.com/websitefingerprinting/WebsiteFingerprinting">Code</a><a href="https://drive.google.com/file/d/19CniA4gIvFCHHRU7kNUPFGOT1wKxt9yi/view?usp=share_link">Dataset</a></p>
     </div>
   </article>
-  </div>
+  <article class="publication">
+    <div class="publication-year">2024</div>
+    <div class="publication-content">
+      <h3>Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning</h3>
+      <p>Siyuan Liang, Kuanrong Liu, <strong>Jiajun Gong</strong>, Jiawei Liang, Yuan Xun, Ee-Chien Chang, and Xiaochun Cao.</p>
+      <p class="publication-venue"><em>CVPR 2024 Workshop</em> <span>·</span> Third author <span>·</span> <span class="publication-award">Distinguished Paper Award</span></p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2403.16257">Paper</a></p>
+    </div>
+  </article>
+</div>
 
 ## Honors &amp; Awards
 
@@ -206,6 +206,6 @@ last_updated: 2026-08-30
 <section class="visitor-section" aria-labelledby="visitor-map-title">
   <div class="visitor-section__header"><div><p class="section-kicker">A small signal of a global community</p><h3 id="visitor-map-title">Visitor map</h3></div><span>Thank you for stopping by.</span></div>
   <div class="visitormap">
-    <script id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA&amp;cl=ffffff&amp;w=a"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA&amp;cl=ffffff&amp;w=a"></script>
   </div>
 </section>
