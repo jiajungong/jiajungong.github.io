@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 title: ""
-excerpt: "Assistant Researcher working on network security, encrypted traffic analysis, privacy, and trustworthy AI."
+excerpt: ""
 last_updated: 2026-08-30
 ---
 
