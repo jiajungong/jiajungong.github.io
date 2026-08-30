@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiajun GONG (Aaron)"
   avatar           : "selfie.jpg"
-  bio              : "I received my Ph.D. in cybersecurity from HKUST, where I worked under the supervision of Charles Zhang and Tao Wang. My research focuses on network security and privacy, especially defending against website fingerprinting attacks, with two top-tier security publications."
+  bio              : "I am an Assistant Researcher at Pengcheng Laboratory. My research focuses on network security and privacy, especially encrypted traffic analysis, website and mobile-app fingerprinting, and AI security. I have published five first-author papers and one corresponding-author paper in leading security venues."
   location         : "Shenzhen, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

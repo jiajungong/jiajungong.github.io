@@ -11,6 +11,22 @@ Working Experience
 * **Research Fellow** in School of Computing, National University of Singapore, Singapore, 2023.03 - 2025.01.
 
 
+Projects
+======
+* **Theory and Methods for Zero-Shot Fingerprinting of Encrypted Websites Based on Cross-Modal Cognitive Alignment**
+  * **Principal Investigator**, NSFC Young Scientists Fund (Category C), Shenzhen, China, 2027.01 - 2029.12.
+  * Project funding: CNY 300,000.
+* <strong>Support Platform ***: Key Technologies, Systems and Applications</strong>
+  * **Core member**, major project of a national laboratory, Shenzhen, China, 2024.10 - 2026.09.
+  * Project funding: CNY 8.77 million.
+* **Research on Artificial Intelligence Attack and Defense Technologies**
+  * **Project participant**, national R&D project, Singapore, 2023.11 - 2026.10.
+  * Project funding: CNY 35.62 million.
+* **Encrypted Traffic Analysis and Privacy Protection**
+  * **Core member**, research grant, Hong Kong, China, 2019.01 - 2020.12.
+  * Project funding: CNY 350,000.
+
+
 Education
 ======
 * Ph.D. in Department of Computer Science and Engineering, *the Hong Kong University of Science and Technology*, 2017.09 - 2022.12. 
@@ -86,7 +102,7 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 
 * [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
 Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao.
-*In CVPR 2024 workshop.* *(Best Paper Award)*
+*In CVPR 2024 workshop.* *(Distinguished Paper Award)*
 [[Paper]](https://arxiv.org/abs/2403.16257)
 
 [//]: # (* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**)
@@ -98,8 +114,9 @@ Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan X
 [//]: # ([[Paper]]&#40;https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf&#41;)
 
   
-Honors & Scholarship
+Honors & Awards
 ======
+* Distinguished Paper Award, CVPR 2024 Workshop, 2024
 * Postgraduate Studentship of HKUST, HK, 2017–2022
 * Meritorious Winner in American Interdisciplinary Contest In Modeling (Top 10%), USA, 2016 
 * National Scholarship, Nanjing University of Science and Technology, Nanjing, 2015
