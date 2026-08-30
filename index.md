@@ -5,31 +5,23 @@ title: ""
 excerpt: ""
 ---
 
-Research Focus
-======
-I am an Assistant Researcher at Pengcheng Laboratory. My research focuses on network security and privacy, especially encrypted traffic analysis, website and mobile-app fingerprinting, trustworthy AI, and robust machine-learning defenses.
-
-
 Working Experience
 ======
 * **Assistant Researcher** in Pengcheng Laboratory, Shenzhen, China, 2025.04 - present.
 * **Research Fellow** in School of Computing, National University of Singapore, Singapore, 2023.03 - 2025.01.
 
 
-Projects
+Education
 ======
-* **Theory and Methods for Zero-Shot Fingerprinting of Encrypted Websites Based on Cross-Modal Cognitive Alignment**
-  * **Principal Investigator**, NSFC Young Scientists Fund (Category C), Pengcheng Laboratory, Shenzhen, China, 2027.01 - 2029.12.
-  * Project funding: CNY 300,000.
-* <strong>Support Platform ***: Key Technologies, Systems and Applications</strong>
-  * **Core member**, major project of a national laboratory, Shenzhen, China, 2024.10 - 2026.09.
-  * Project funding: CNY 8.77 million.
-* **Research on Artificial Intelligence Attack and Defense Technologies**
-  * **Project participant**, national R&D project, Singapore, 2023.11 - 2026.10.
-  * Project funding: CNY 35.62 million.
-* **Encrypted Traffic Analysis and Privacy Protection**
-  * **Core member**, research grant, Hong Kong, China, 2019.01 - 2020.12.
-  * Project funding: CNY 350,000.
+* Ph.D. in Department of Computer Science and Engineering, *the Hong Kong University of Science and Technology*, 2017.09 - 2022.12. 
+  * GPA 4.06/4.3 
+  * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
+* B.S. in College of Elite of Education, *Nanjing University of Science and Technology*, 2013.09 - 2017.06.
+  * GPA 3.82/4.0 (1/64)
+  * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
+* Visiting student in Department of Computer Science and Engineering, *the Australian National University*, 2015.07 - 2016.11.
+  * Awarded CSC Scholarships by Chinese Scholarship Council
+  * GPA 4.0/4.0
 
 [//]: # (Research Topic)
 
@@ -42,7 +34,6 @@ Projects
 [//]: # (I focus on solving the problem of website fingerprinting, one kind of traffic analysis. )
 
 [//]: # (I designed three defenses to protect users against such attacks, leading to two top security conference papers.)
-
 
 Publications
 ======
@@ -76,7 +67,7 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10295524)
 [[Code]](https://github.com/websitefingerprinting/wfdef)
 
-* [S&P 2022]
+* [S&P 2022] 
 **"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
 **Jiajun Gong (First author)**, Wuqi Zhang, Charles Zhang, Tao Wang.
 *In the 43rd IEEE Symposium on Security and Privacy.* *(CCF-A)*
@@ -95,7 +86,7 @@ Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Li
 
 * [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
 Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao.
-*In CVPR 2024 workshop.* *(Distinguished Paper Award)*
+*In CVPR 2024 workshop.* *(Best Paper Award)*
 [[Paper]](https://arxiv.org/abs/2403.16257)
 
 [//]: # (* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**)
@@ -107,9 +98,8 @@ Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan X
 [//]: # ([[Paper]]&#40;https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf&#41;)
 
   
-Honors & Awards
+Honors & Scholarship
 ======
-* Distinguished Paper Award, CVPR 2024 Workshop
 * Postgraduate Studentship of HKUST, HK, 2017–2022
 * Meritorious Winner in American Interdisciplinary Contest In Modeling (Top 10%), USA, 2016 
 * National Scholarship, Nanjing University of Science and Technology, Nanjing, 2015
@@ -137,17 +127,8 @@ Teaching
 * TA for COMP 4632: Practicing Cybersecurity: Attacks and Countermeasures. (2017-2018 Spring)
 
 
-Education
-======
-* Ph.D. in Department of Computer Science and Engineering, *the Hong Kong University of Science and Technology*, 2017.09 - 2022.12.
-  * GPA 4.06/4.3
-  * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
-* B.S. in College of Elite of Education, *Nanjing University of Science and Technology*, 2013.09 - 2017.06.
-  * GPA 3.82/4.0 (1/64)
-  * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
-* Visiting student in Department of Computer Science and Engineering, *the Australian National University*, 2015.07 - 2016.11.
-  * Awarded CSC Scholarships by Chinese Scholarship Council
-  * GPA 4.0/4.0
+
+
 
 
 Skills
@@ -158,5 +139,3 @@ Skills
 <div class="visitormap"> 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA&cl=ffffff&w=a"></script>
 </div>
-
-<p style="margin: 1.5em 0 0; color: #7a8288; font-size: 0.75em; text-align: right;">Last Update: August 30, 2026</p>
