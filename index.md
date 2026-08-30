@@ -2,193 +2,161 @@
 permalink: /
 author_profile: true
 title: ""
-excerpt: "Assistant Researcher working on network security, encrypted traffic analysis, privacy, and trustworthy AI."
-last_updated: 2026-08-30
+excerpt: ""
 ---
 
-## Experience
+Research Focus
+======
+I am an Assistant Researcher at Pengcheng Laboratory. My research focuses on network security and privacy, especially encrypted traffic analysis, website and mobile-app fingerprinting, trustworthy AI, and robust machine-learning defenses.
 
-<div class="timeline">
-  <article class="timeline-item timeline-item--current">
-    <div class="timeline-date">2025.04 - Present</div>
-    <div class="timeline-marker" aria-hidden="true"></div>
-    <div class="timeline-content">
-      <p class="timeline-role">Assistant Researcher</p>
-      <p class="timeline-org">Pengcheng Laboratory <span>·</span> Shenzhen, China</p>
-    </div>
-  </article>
-  <article class="timeline-item">
-    <div class="timeline-date">2023.03 - 2025.01</div>
-    <div class="timeline-marker" aria-hidden="true"></div>
-    <div class="timeline-content">
-      <p class="timeline-role">Research Fellow</p>
-      <p class="timeline-org">School of Computing, National University of Singapore <span>·</span> Singapore</p>
-    </div>
-  </article>
-</div>
 
-## Projects
+Working Experience
+======
+* **Assistant Researcher** in Pengcheng Laboratory, Shenzhen, China, 2025.04 - present.
+* **Research Fellow** in School of Computing, National University of Singapore, Singapore, 2023.03 - 2025.01.
 
-<div class="project-grid">
-  <article class="project-card project-card--featured">
-    <div class="project-card__topline"><span class="project-card__label">Principal Investigator</span><span>2027.01 - 2029.12</span></div>
-    <h3>Theory and Methods for Zero-Shot Fingerprinting of Encrypted Websites Based on Cross-Modal Cognitive Alignment</h3>
-    <p class="project-card__funding">NSFC Young Scientists Fund (Category C) <span>·</span> CNY 300,000</p>
-  </article>
-  <article class="project-card">
-    <div class="project-card__topline"><span class="project-card__label">Core Member</span><span>2024.10 - 2026.09</span></div>
-    <h3>Support Platform ***: Key Technologies, Systems and Applications</h3>
-    <p class="project-card__funding">Major national-laboratory project <span>·</span> CNY 8.77M</p>
-  </article>
-  <article class="project-card">
-    <div class="project-card__topline"><span class="project-card__label">Project Participant</span><span>2023.11 - 2026.10</span></div>
-    <h3>Research on Artificial Intelligence Attack and Defense Technologies</h3>
-    <p class="project-card__funding">National R&amp;D project <span>·</span> CNY 35.62M</p>
-  </article>
-  <article class="project-card">
-    <div class="project-card__topline"><span class="project-card__label">Core Member</span><span>2019.01 - 2020.12</span></div>
-    <h3>Encrypted Traffic Analysis and Privacy Protection</h3>
-    <p class="project-card__funding">Research grant <span>·</span> CNY 350,000</p>
-  </article>
-</div>
 
-## Publications
+Projects
+======
+* **Theory and Methods for Zero-Shot Fingerprinting of Encrypted Websites Based on Cross-Modal Cognitive Alignment**
+  * **Principal Investigator**, NSFC Young Scientists Fund (Category C), Pengcheng Laboratory, Shenzhen, China, 2027.01 - 2029.12.
+  * Project funding: CNY 300,000.
+* <strong>Support Platform ***: Key Technologies, Systems and Applications</strong>
+  * **Core member**, major project of a national laboratory, Shenzhen, China, 2024.10 - 2026.09.
+  * Project funding: CNY 8.77 million.
+* **Research on Artificial Intelligence Attack and Defense Technologies**
+  * **Project participant**, national R&D project, Singapore, 2023.11 - 2026.10.
+  * Project funding: CNY 35.62 million.
+* **Encrypted Traffic Analysis and Privacy Protection**
+  * **Core member**, research grant, Hong Kong, China, 2019.01 - 2020.12.
+  * Project funding: CNY 350,000.
 
-<div class="publication-list">
-  <article class="publication">
-    <div class="publication-year">2026</div>
-    <div class="publication-content">
-      <h3>TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning</h3>
-      <p>Siyuan Liang, <strong>Jiajun Gong*</strong>, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.</p>
-      <p class="publication-venue"><em>IEEE Transactions on Information Forensics and Security</em> <span>·</span> CCF-A <span>·</span> Corresponding author</p>
-      <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11395327/">Paper</a><a href="https://github.com/LiangSiyuan21/TrapFlow">Code</a><a href="https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL?usp=sharing">Dataset</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2025</div>
-    <div class="publication-content">
-      <h3>WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features</h3>
-      <p><strong>Jiajun Gong</strong>, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang.</p>
-      <p class="publication-venue"><em>IEEE Transactions on Dependable and Secure Computing</em> <span>·</span> CCF-A <span>·</span> First author</p>
-      <p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/11146805/">Paper</a><a href="https://github.com/websitefingerprinting/wfcat">Code</a><a href="https://drive.google.com/drive/folders/16N0Kwx1_TjaOFZG72du1X8etNcdpriim?usp=sharing">Dataset</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2025</div>
-    <div class="publication-content">
-      <h3>FOADA: Toward Robust Open-World Mobile App Fingerprinting</h3>
-      <p><strong>Jiajun Gong</strong>, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang.</p>
-      <p class="publication-venue"><em>IEEE Transactions on Information Forensics and Security</em> <span>·</span> CCF-A <span>·</span> First author</p>
-      <p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/11080009">Paper</a><a href="https://github.com/websitefingerprinting/app_fingerprinting">Code</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2023</div>
-    <div class="publication-content">
-      <h3>WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses</h3>
-      <p><strong>Jiajun Gong</strong>, Wuqi Zhang, Charles Zhang, and Tao Wang.</p>
-      <p class="publication-venue"><em>IEEE Transactions on Information Forensics and Security</em> <span>·</span> CCF-A <span>·</span> First author</p>
-      <p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/10295524">Paper</a><a href="https://github.com/websitefingerprinting/wfdef">Code</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2022</div>
-    <div class="publication-content">
-      <h3>Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense</h3>
-      <p><strong>Jiajun Gong</strong>, Wuqi Zhang, Charles Zhang, and Tao Wang.</p>
-      <p class="publication-venue"><em>43rd IEEE Symposium on Security and Privacy</em> <span>·</span> CCF-A <span>·</span> First author</p>
-      <p class="publication-links"><a href="https://jiajungong.github.io/files/sp22-surakav.pdf">Paper</a><a href="https://jiajungong.github.io/files/sp22-surakav-slides.pdf">Slides</a><a href="https://github.com/websitefingerprinting/surakav-imp">Code</a><a href="https://drive.google.com/drive/folders/1ygQampUuZ6bOlHOavHKNdFTUxy9xlk--?usp=sharing">Dataset</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2020</div>
-    <div class="publication-content">
-      <h3>Zero-delay Lightweight Defenses against Website Fingerprinting</h3>
-      <p><strong>Jiajun Gong</strong> and Tao Wang.</p>
-      <p class="publication-venue"><em>29th USENIX Security Symposium</em> <span>·</span> CCF-A <span>·</span> First author</p>
-      <p class="publication-links"><a href="https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf">Paper</a><a href="https://jiajungong.github.io/files/security20-gong-slides.pdf">Slides</a><a href="https://github.com/websitefingerprinting/WebsiteFingerprinting">Code</a><a href="https://drive.google.com/file/d/19CniA4gIvFCHHRU7kNUPFGOT1wKxt9yi/view?usp=share_link">Dataset</a></p>
-    </div>
-  </article>
-  <article class="publication">
-    <div class="publication-year">2024</div>
-    <div class="publication-content">
-      <h3>Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning</h3>
-      <p>Siyuan Liang, Kuanrong Liu, <strong>Jiajun Gong</strong>, Jiawei Liang, Yuan Xun, Ee-Chien Chang, and Xiaochun Cao.</p>
-      <p class="publication-venue"><em>CVPR 2024 Workshop</em> <span>·</span> Third author <span>·</span> <span class="publication-award">Distinguished Paper Award</span></p>
-      <p class="publication-links"><a href="https://arxiv.org/abs/2403.16257">Paper</a></p>
-    </div>
-  </article>
-</div>
+[//]: # (Research Topic)
 
-## Honors &amp; Awards
+[//]: # (======)
 
-<ul class="award-list">
-  <li><span class="award-year">2024</span><span><strong>Distinguished Paper Award</strong><small>CVPR 2024 Workshop</small></span></li>
-  <li><span class="award-year">2017 - 2022</span><span><strong>Postgraduate Studentship</strong><small>The Hong Kong University of Science and Technology</small></span></li>
-  <li><span class="award-year">2016</span><span><strong>Meritorious Winner</strong><small>American Interdisciplinary Contest in Modeling, Top 10%</small></span></li>
-  <li><span class="award-year">2015</span><span><strong>National Scholarship</strong><small>Nanjing University of Science and Technology, Top 2</small></span></li>
-  <li><span class="award-year">2015</span><span><strong>The Academic Award</strong><small>Nanjing University of Science and Technology</small></span></li>
-  <li><span class="award-year">2014 - 2015</span><span><strong>First Prize Scholarship</strong><small>Nanjing University of Science and Technology</small></span></li>
-</ul>
+[//]: # (I worked at the Cybersecurity Lab of HKUST, supervised by Charles Zhang and Tao Wang. )
 
-## Professional Service
+[//]: # (My research interests lie in network security and privacy. )
 
-<ul class="service-list">
-  <li><span>ACM Transactions on Privacy and Security (TOPS)</span><small>Reviewer, 2026</small></li>
-  <li><span>Journal of Computer Security</span><small>Reviewer, 2026</small></li>
-  <li><span>Journal of Information Security and Applications (JISA)</span><small>Reviewer, 2026</small></li>
-  <li><span>Knowledge-Based Systems (KBS)</span><small>Reviewer, 2026</small></li>
-  <li><span>IEEE Transactions on Networking (TON)</span><small>Reviewer, 2025</small></li>
-  <li><span>IEEE Transactions on Dependable and Secure Computing (TDSC)</span><small>Reviewer, 2020, 2024, 2026</small></li>
-  <li><span>IEEE Transactions on Information Forensics and Security (TIFS)</span><small>Reviewer, 2023, 2024</small></li>
-  <li><span>EAI SecureComm</span><small>Reviewer, 2023</small></li>
-</ul>
+[//]: # (I focus on solving the problem of website fingerprinting, one kind of traffic analysis. )
 
-## Teaching
+[//]: # (I designed three defenses to protect users against such attacks, leading to two top security conference papers.)
 
-<ul class="teaching-list">
-  <li><span class="teaching-term">2020 - 2021 Fall</span><span><strong>COMP 4451</strong> Game Programming</span></li>
-  <li><span class="teaching-term">2019 - 2020 Fall</span><span><strong>COMP 2711</strong> Discrete Mathematical Tools for Computer Science</span></li>
-  <li><span class="teaching-term">2018 - 2019 Fall</span><span><strong>COMP 3632</strong> Principles of Cybersecurity</span></li>
-  <li><span class="teaching-term">2017 - 2018 Spring</span><span><strong>COMP 4632</strong> Practicing Cybersecurity: Attacks and Countermeasures</span></li>
-</ul>
 
-## Education
+Publications
+======
+* [TIFS 2026] 
+**"TrapFlow: Controllable Website Fingerprinting Defense via Dynamic Backdoor Learning".**
+Siyuan Liang, **Jiajun Gong\* (Corresponding author)**, Tianmeng Fang, Aishan Liu, Tao Wang, Xiaochun Cao, Dacheng Tao, and Ee-Chien Chang.
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
+[[Paper]](https://ieeexplore.ieee.org/document/11395327/)
+[[Code]](https://github.com/LiangSiyuan21/TrapFlow)
+[[Dataset]](https://drive.google.com/drive/folders/1JXnM5ybjmOjseRPpDM_OSllnER_6CfvL?usp=sharing)
 
-<div class="education-list">
-  <article class="education-item">
-    <div class="education-date">2017.09 - 2022.12</div>
-    <div>
-      <h3>Ph.D. in Computer Science and Engineering</h3>
-      <p class="education-school">The Hong Kong University of Science and Technology <span>·</span> Hong Kong, China</p>
-      <p class="education-detail">GPA 4.06 / 4.3</p>
-    </div>
-  </article>
-  <article class="education-item">
-    <div class="education-date">2013.09 - 2017.06</div>
-    <div>
-      <h3>B.S. in College of Elite of Education</h3>
-      <p class="education-school">Nanjing University of Science and Technology <span>·</span> Nanjing, China</p>
-      <p class="education-detail">GPA 3.82 / 4.0 <span>·</span> Ranked 1st in a cohort of 64</p>
-    </div>
-  </article>
-  <article class="education-item">
-    <div class="education-date">2015.07 - 2016.11</div>
-    <div>
-      <h3>Visiting Student in Computer Science and Engineering</h3>
-      <p class="education-school">The Australian National University <span>·</span> Canberra, Australia</p>
-      <p class="education-detail">CSC Scholarship</p>
-    </div>
-  </article>
-</div>
+* [TDSC 2025] 
+**"WFCAT: Augmenting Website Fingerprinting with Channel-wise Attention on Timing Features".**
+**Jiajun Gong (First author)**, Wei Cai, Siyuan Liang, Zhong Guan, Tao Wang, and Ee-Chien Chang. 
+*IEEE Transactions on Dependable and Secure Computing.* *(CCF-A)*
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11146805/)
+[[Code]](https://github.com/websitefingerprinting/wfcat)
+[[Dataset]](https://drive.google.com/drive/folders/16N0Kwx1_TjaOFZG72du1X8etNcdpriim?usp=sharing)
 
-## Skills
+* [TIFS 2025] 
+**"FOADA: Toward Robust Open-World Mobile App Fingerprinting".**
+**Jiajun Gong (First author)**, Guotao Meng, Wei Cai, Siyuan Liang, Tao Wang, and Ee-Chien Chang. 
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/11080009)
+[[Code]](https://github.com/websitefingerprinting/app_fingerprinting)
 
-<div class="skills-grid">
-  <div class="skill-group"><span class="skill-label">Programming</span><div class="skill-pills"><span>Python</span><span>Go</span><span>C++</span></div></div>
-  <div class="skill-group"><span class="skill-label">English tests</span><div class="skill-pills"><span>IELTS 7.5</span><span>CET-6 · 594</span></div></div>
-</div>
+* [TIFS 2023] 
+**"WFDefProxy: Real World Implementation and Evaluation of Website Fingerprinting Defenses".**
+**Jiajun Gong (First author)**, Wuqi Zhang, Charles Zhang, Tao Wang. 
+*IEEE Transactions on Information Forensics and Security.* *(CCF-A)*
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10295524)
+[[Code]](https://github.com/websitefingerprinting/wfdef)
 
-<div class="visitormap">
+* [S&P 2022]
+**"Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense".**
+**Jiajun Gong (First author)**, Wuqi Zhang, Charles Zhang, Tao Wang.
+*In the 43rd IEEE Symposium on Security and Privacy.* *(CCF-A)*
+[[Paper]](https://jiajungong.github.io/files/sp22-surakav.pdf) 
+[[Slides]](https://jiajungong.github.io/files/sp22-surakav-slides.pdf)
+[[Code]](https://github.com/websitefingerprinting/surakav-imp)
+[[Dataset]](https://drive.google.com/drive/folders/1ygQampUuZ6bOlHOavHKNdFTUxy9xlk--?usp=sharing)
+
+* [USENIX 2020] **"Zero-delay Lightweight Defenses against Website Fingerprinting".**
+**Jiajun Gong (First author)**, Tao Wang.
+*In the 29th USENIX Security Symposium.* *(CCF-A)*
+[[Paper]](https://jiajungong.github.io/files/usenix20-zero-delay-defenses.pdf)
+[[Slides]](https://jiajungong.github.io/files/security20-gong-slides.pdf)
+[[Code]](https://github.com/websitefingerprinting/WebsiteFingerprinting)
+[[Dataset]](https://drive.google.com/file/d/19CniA4gIvFCHHRU7kNUPFGOT1wKxt9yi/view?usp=share_link)
+
+* [CVPR Workshop 2024] **"Unlearning backdoor threats: Enhancing backdoor defense in multimodal contrastive learning via local token unlearning".**
+Siyuan Liang, Kuanrong Liu, **Jiajun Gong (Third author)**, Jiawei Liang, Yuan Xun, Ee-Chien Chang, Xiaochun Cao.
+*In CVPR 2024 workshop.* *(Distinguished Paper Award)*
+[[Paper]](https://arxiv.org/abs/2403.16257)
+
+[//]: # (* [S&P 2019] **"Poster: Zero-delay Lightweight Defenses against Website Fingerprinting".**)
+
+[//]: # (**Jiajun Gong**, Tao Wang.)
+
+[//]: # (In the 40th IEEE Symposium on Security and Privacy. )
+
+[//]: # ([[Paper]]&#40;https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final6.pdf&#41;)
+
+  
+Honors & Awards
+======
+* Distinguished Paper Award, CVPR 2024 Workshop
+* Postgraduate Studentship of HKUST, HK, 2017–2022
+* Meritorious Winner in American Interdisciplinary Contest In Modeling (Top 10%), USA, 2016 
+* National Scholarship, Nanjing University of Science and Technology, Nanjing, 2015
+* “The Academic Award”, Nanjing University of Science and Technology, Nanjing, 2015
+* The First Prize Scholarship, Nanjing University of Science and Technology, Nanjing, 2014-2015
+
+
+Professional Service
+======
+* Reviewer for ACM Transactions on Privacy and Security (TOPS), 2026
+* Reviewer for Journal of Computer Security, 2026
+* Reviewer for Journal of Information Security and Applications (JISA), 2026
+* Reviewer for Knowledge-Based Systems (KBS), 2026
+* Reviewer for IEEE Transactions on Networking (TON), 2025
+* Reviewer for IEEE Transactions on Dependable and Secure Computing (TDSC), 2020, 2024, 2026
+* Reviewer for IEEE Transactions on Information Forensics and Security (TIFS), 2023, 2024
+* Reviewer for EAI SecureComm, 2023
+  
+  
+Teaching
+======
+* TA for COMP 4451: Game Programming. (2020-2021 Fall)
+* TA for COMP 2711: Discrete Mathematical Tools for Computer Science. (2019-2020 Fall)
+* TA for COMP 3632: Principles of Cybersecurity. (2018-2019 Fall)
+* TA for COMP 4632: Practicing Cybersecurity: Attacks and Countermeasures. (2017-2018 Spring)
+
+
+Education
+======
+* Ph.D. in Department of Computer Science and Engineering, *the Hong Kong University of Science and Technology*, 2017.09 - 2022.12.
+  * GPA 4.06/4.3
+  * Core courses: Cryptography and Security (A+), Theory of Computation (A+), Computer Networks (A+), Machine Learning (A-)
+* B.S. in College of Elite of Education, *Nanjing University of Science and Technology*, 2013.09 - 2017.06.
+  * GPA 3.82/4.0 (1/64)
+  * Core courses: Mathematical Analysis (94), Advanced Algebra (98), Operating System (94)
+* Visiting student in Department of Computer Science and Engineering, *the Australian National University*, 2015.07 - 2016.11.
+  * Awarded CSC Scholarships by Chinese Scholarship Council
+  * GPA 4.0/4.0
+
+
+Skills
+======
+* Programming Skills: &nbsp;Python &nbsp; Golang &nbsp; C++
+* English Tests: &nbsp;IELTS 7.5 &nbsp; CET6 594
+  
+<div class="visitormap"> 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA&cl=ffffff&w=a"></script>
 </div>
+
+<p style="margin: 1.5em 0 0; color: #7a8288; font-size: 0.75em; text-align: right;">Last Update: August 30, 2026</p>
