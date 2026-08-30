@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiajun GONG's Home Page"
+title                    : "Jiajun GONG"
 title_separator          : "-"
 name                     : &name "Jiajun GONG"
-description              : &description "personal description"
+description              : &description "Assistant Researcher working on network security, encrypted traffic analysis, privacy, and trustworthy AI."
 url                      : https://jiajungong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiajungong/jiajungong.github.io"
@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Jiajun GONG (Aaron)"
   avatar           : "selfie.jpg"
-  bio              : "I received my Ph.D. in cybersecurity from HKUST, where I worked under the supervision of Charles Zhang and Tao Wang. My research focuses on network security and privacy, especially defending against website fingerprinting attacks, with two top-tier security publications."
+  role             : "Assistant Researcher"
+  bio              : "I work on network security and privacy, with a focus on encrypted traffic analysis, website and mobile-app fingerprinting, and trustworthy AI. I lead research at the intersection of machine learning and real-world security systems."
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "Pengcheng Laboratory"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7Xb0YxMAAAAJ"
   email            : "jgongac@connect.ust.hk"
