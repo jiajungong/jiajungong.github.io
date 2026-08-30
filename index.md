@@ -153,3 +153,5 @@ Skills
 <div class="visitormap"> 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA&cl=ffffff&w=a"></script>
 </div>
+
+<p style="margin: 1.5em 0 0; color: #7a8288; font-size: 0.75em; text-align: right;">Last Update: August 30, 2026</p>
